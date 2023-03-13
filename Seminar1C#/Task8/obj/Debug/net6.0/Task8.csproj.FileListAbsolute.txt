@@ -1,0 +1,15 @@
+D:\Labs\Proj4\Seminar1C#\Task8\bin\Debug\net6.0\Task8.exe
+D:\Labs\Proj4\Seminar1C#\Task8\bin\Debug\net6.0\Task8.deps.json
+D:\Labs\Proj4\Seminar1C#\Task8\bin\Debug\net6.0\Task8.runtimeconfig.json
+D:\Labs\Proj4\Seminar1C#\Task8\bin\Debug\net6.0\Task8.dll
+D:\Labs\Proj4\Seminar1C#\Task8\bin\Debug\net6.0\Task8.pdb
+D:\Labs\Proj4\Seminar1C#\Task8\obj\Debug\net6.0\Task8.csproj.AssemblyReference.cache
+D:\Labs\Proj4\Seminar1C#\Task8\obj\Debug\net6.0\Task8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\Proj4\Seminar1C#\Task8\obj\Debug\net6.0\Task8.AssemblyInfoInputs.cache
+D:\Labs\Proj4\Seminar1C#\Task8\obj\Debug\net6.0\Task8.AssemblyInfo.cs
+D:\Labs\Proj4\Seminar1C#\Task8\obj\Debug\net6.0\Task8.csproj.CoreCompileInputs.cache
+D:\Labs\Proj4\Seminar1C#\Task8\obj\Debug\net6.0\Task8.dll
+D:\Labs\Proj4\Seminar1C#\Task8\obj\Debug\net6.0\refint\Task8.dll
+D:\Labs\Proj4\Seminar1C#\Task8\obj\Debug\net6.0\Task8.pdb
+D:\Labs\Proj4\Seminar1C#\Task8\obj\Debug\net6.0\Task8.genruntimeconfig.cache
+D:\Labs\Proj4\Seminar1C#\Task8\obj\Debug\net6.0\ref\Task8.dll
